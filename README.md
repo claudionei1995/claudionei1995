@@ -2,6 +2,7 @@
 <b>Eu sou Claudionei Padilha,atualmente estudo com Rodolfo Mori na DEVCLUB</B> :four_leaf_clover: :innocent:
 <br>
 <h3>Meu Linkedin<h3>
+<A>https://www.linkedin.com/feed/</A>
 
 <BR>
 <UL>
