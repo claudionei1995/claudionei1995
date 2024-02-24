@@ -1,8 +1,8 @@
 ### Hi there 👋
-<b>Eu sou Claudionei Padilha,atualmente estudo com Rodolfo Mori na DEVCLUB</B> :four_leaf_clover: :innocent:
+Eu sou Claudionei Padilha,atualmente estudo com Rodolfo Mori na DEVCLUB :four_leaf_clover: :innocent:
 <br>
-<h3>Meu Linkedin<h3>
-<A>https://www.linkedin.com/feed/</A>
+<h3>Meu linkedin</h3>
+<a>https://www.linkedin.com/feed/</a>
 
 <BR>
 <UL>
@@ -17,7 +17,18 @@
 <li>Me tornar desenvolvedor Fullstack</li>
 <H3>Lema</H3>
 <li>Faser meu melhor, com as condições que eu tenho,até ter condições de faser melhor ainda!</li>
-</ul>!--
+</ul>!
+
+[![Claudionei stats](https://github-readme-stats.vercel.app/api?username=Claudionei1995)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Claudionei stats](https://github-readme-stats.vercel.app/api?username=Claudionei1995&show_icons=true&theme=transparent)
+
+
+
+
+
+
+
 **claudionei1995/claudionei1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
