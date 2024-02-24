@@ -1,8 +1,8 @@
 ### Hi there 👋
 Eu sou Claudionei Padilha,atualmente estudo com Rodolfo Mori na DEVCLUB :four_leaf_clover: :innocent:
 <br>
-<h3>Meu linkedin</h3>
-<a>https://www.linkedin.com/feed/</a>
+
+<h3> meu <a herf="https://www.linkedin.com/feed/">linkedin</a></h3>
 
 <BR>
 <UL>
