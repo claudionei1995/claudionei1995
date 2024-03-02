@@ -11,7 +11,7 @@
 <li>Html</li>
 <LI>Css</LI>
 <LI>Javascript</LI>
-<LI>React</LI>
+<LI>React-app</LI>
 </UL>
 <ul>
 <h3>Objetivo</h3>
